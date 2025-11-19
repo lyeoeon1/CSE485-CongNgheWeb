@@ -1,6 +1,6 @@
 # BÁO CÁO PHT BUỔI 1-2
 
-## 📋 THÔNG TIN NỘP BÀI
+## 📋 Thông tin bài nộp
 
 - **CHƯƠNG 1: TÌM HIỂU VỀ CÔNG NGHỆ WEB**
 - **CHƯƠNG 2: LẬP TRÌNH PHP CĂN BẢN**
